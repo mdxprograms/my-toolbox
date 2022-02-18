@@ -1,6 +1,6 @@
 # My Toolbox
 
-### React/Javascript
+## React/Javascript
 
 [ReactPage](https://github.com/react-page/react-page)
 
@@ -24,11 +24,15 @@
 
 [TypeScript](https://www.typescriptlang.org/)
 
-### Editor
+## Editor
 
 [neovim](https://neovim.io/)
 
-Favorite plugins in-use:
+### Package Manager
+
+[minpac](https://github.com/k-takata/minpac)
+
+### Favorite Plugins
 
 - [CoC](https://github.com/neoclide/coc.nvim)
 

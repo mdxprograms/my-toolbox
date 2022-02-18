@@ -55,12 +55,18 @@
 
 ### Favorite Plugins
 
-- [CoC](https://github.com/neoclide/coc.nvim)
+[CoC](https://github.com/neoclide/coc.nvim)
 
-- [FZF](https://github.com/junegunn/fzf.vim)
+[FZF](https://github.com/junegunn/fzf.vim)
 
-- [Vimux](https://github.com/preservim/vimux)
+[Vimux](https://github.com/preservim/vimux)
 
-- [Dracula Theme](https://github.com/dracula/vim)
+[Dracula Theme](https://github.com/dracula/vim)
 
-- [UltiSnips](https://github.com/SirVer/ultisnips)
+[UltiSnips](https://github.com/SirVer/ultisnips)
+
+## APIs
+
+[News API](https://newsapi.org/)
+
+[NASA](https://api.nasa.gov/)

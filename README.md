@@ -1,6 +1,17 @@
 # My Toolbox
 
 <!--ts-->
+* [My Toolbox](#my-toolbox)
+   * [React/Javascript](#reactjavascript)
+      * [Project Starters](#project-starters)
+      * [Style Libs and Frameworks](#style-libs-and-frameworks)
+      * [Tools and Utilities](#tools-and-utilities)
+   * [Editor](#editor)
+      * [Package Manager](#package-manager)
+      * [Favorite Plugins](#favorite-plugins)
+
+<!-- Added by: runner, at: Fri Feb 18 17:43:43 UTC 2022 -->
+
 <!--te-->
 
 [toolbox page](https://mdxprograms.github.io/my-toolbox/)

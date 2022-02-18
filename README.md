@@ -17,7 +17,7 @@
 
 [toolbox page](https://mdxprograms.github.io/my-toolbox/)
 
-## React/Javascript
+## Javascript
 
 [ReactPage](https://github.com/react-page/react-page)
 
@@ -26,6 +26,10 @@
 [Redux Toolkit](https://redux-toolkit.js.org/)
 
 [React Hook Form](https://react-hook-form.com/)
+
+[React](https://reactjs.org/)
+
+[Svelte](https://svelte.dev/)
 
 ### Project Starters
 
